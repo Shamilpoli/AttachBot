@@ -9,7 +9,7 @@
     "attachbot"
     ],
     "sucess_url": "https://t.me/joinchat/AAAAAFNUwQf7MQRc3s4wRw",
-    "repository": "https://github.com/Anandpskerala/AttachBot",
+    "repository": "https://github.com/Shamilpoli/AttachBot",
     "env": {
       "TG_BOT_TOKEN": {
         "description": "telegrambot token",
