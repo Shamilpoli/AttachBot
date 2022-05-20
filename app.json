@@ -15,10 +15,15 @@
         "description": "telegrambot token",
         "value": ""
       },
-      "CHANNEL_USERNAME": {
+      "API_HASH": {
         "description": "Public channels username without'@'",
         "value": ""
-      }
+      },
+      
+      "API_ID" : {
+        "description": "api id channel",
+        "value: ""
+    
     },
     "buildpacks": [
     {
