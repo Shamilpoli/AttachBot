@@ -17,7 +17,7 @@ And Click the button shown below.
 
  ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shamilpoli/AttachBot)
 
 ## Video Tutorial
 
