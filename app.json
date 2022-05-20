@@ -22,7 +22,7 @@
       
       "API_ID" : {
         "description": "api id channel",
-        "value: ""
+        "value": ""
     
     },
     "buildpacks": [
